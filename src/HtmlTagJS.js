@@ -43,6 +43,7 @@ class HtmlTag {
     /**
      * Genera los atributos de la etiqueta HTML
      * // Metod auxiliar para manejar atributos
+     * @param {object} element - Elemento HTML
      * @param {object} opt - Atributos de la etiqueta
      * @returns {string} - String con los atributos formateados
      * @private
